@@ -1,5 +1,6 @@
 import CoreConcept from "../CoreConcept/CoreConcept";
 import {CORE_CONCEPTS} from "../../data";
+import './CoreConceptsList.css';
 
 const CoreConceptsList = () => {
   return (
