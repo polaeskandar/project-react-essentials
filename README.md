@@ -6,7 +6,7 @@ I created this project as my initial foray into frontend development with React.
 
 ## To Boot Up the Project
 
-1. Clone the project to your local machine: `git clone git@github.com:polaeskandar/project-node-farm.git`.
+1. Clone the project to your local machine: `git clone git@github.com:polaeskandar/project-react-essentials.git`.
 2. Change into the project directory: `cd project-node-farm`.
 3. Run the installation process: `npm install`.
 4. Run the project: `npm run dev`.
