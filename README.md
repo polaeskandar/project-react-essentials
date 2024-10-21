@@ -1,6 +1,6 @@
 # React Essentials using React.js
 
-I created this project as my initial foray into frontend development with React.js. The entire application was developed solely using React.js, without incorporating any other frameworks. I successfully completed this project with the excellent guidance of instructor Maximillian Schwarzmüller, as part of my learning experience in this course.
+I created this project as my initial foray into frontend development with React.js. The entire application was developed solely using React.js, without incorporating any other frameworks. I successfully completed this project with the excellent guidance of instructor Maximillian Schwarzmüller, as part of my learning experience in this [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 ![Homepage](./docs/01.png)
 
